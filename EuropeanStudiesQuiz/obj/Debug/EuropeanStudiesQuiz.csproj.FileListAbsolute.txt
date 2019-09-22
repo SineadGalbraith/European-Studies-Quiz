@@ -1,0 +1,154 @@
+J:\SSD\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\bin\Debug\EuropeanStudiesQuiz.exe.config
+J:\SSD\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.csprojResolveAssemblyReference.cache
+J:\SSD\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.LoginScreen.resources
+J:\SSD\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.Properties.Resources.resources
+J:\SSD\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.csproj.GenerateResource.Cache
+J:\SSD\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\bin\Debug\EuropeanStudiesQuiz.exe
+J:\SSD\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\bin\Debug\EuropeanStudiesQuiz.pdb
+J:\SSD\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.AdminScreen.resources
+J:\SSD\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.SplashScreen.resources
+J:\SSD\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.exe
+J:\SSD\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.pdb
+J:\SSD\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.DragDrogText.resources
+J:\SSD\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.DragDropPicture.resources
+J:\SSD\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.MultipleChoiceScreen.resources
+J:\SSD\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.EndScreen.resources
+J:\SSD\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.TrueorFalseScreen.resources
+D:\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\bin\Debug\EuropeanStudiesQuiz.exe.config
+D:\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.exe
+D:\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.pdb
+D:\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\bin\Debug\EuropeanStudiesQuiz.exe
+D:\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\bin\Debug\EuropeanStudiesQuiz.pdb
+D:\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.csprojResolveAssemblyReference.cache
+D:\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.AdminScreen.resources
+D:\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.DragDrogText.resources
+D:\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.DragDropPicture.resources
+D:\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.EndScreen.resources
+D:\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.LoginScreen.resources
+D:\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.MultipleChoiceScreen.resources
+D:\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.SplashScreen.resources
+D:\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.Properties.Resources.resources
+D:\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.TrueorFalseScreen.resources
+D:\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.csproj.GenerateResource.Cache
+J:\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\bin\Debug\EuropeanStudiesQuiz.exe.config
+J:\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.exe
+J:\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.pdb
+J:\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\bin\Debug\EuropeanStudiesQuiz.exe
+J:\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\bin\Debug\EuropeanStudiesQuiz.pdb
+J:\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.csprojResolveAssemblyReference.cache
+J:\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.AdminScreen.resources
+J:\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.DragDrogText.resources
+J:\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.DragDropPicture.resources
+J:\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.EndScreen.resources
+J:\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.LoginScreen.resources
+J:\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.MultipleChoiceScreen.resources
+J:\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.SplashScreen.resources
+J:\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.Properties.Resources.resources
+J:\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.TrueorFalseScreen.resources
+J:\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.csproj.GenerateResource.Cache
+D:\SSD\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\bin\Debug\EuropeanStudiesQuiz.exe.config
+D:\SSD\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\bin\Debug\EuropeanStudiesQuiz.exe
+D:\SSD\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\bin\Debug\EuropeanStudiesQuiz.pdb
+D:\SSD\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.AdminScreen.resources
+D:\SSD\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.DragDrogText.resources
+D:\SSD\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.DragDropPicture.resources
+D:\SSD\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.EndScreen.resources
+D:\SSD\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.LoginScreen.resources
+D:\SSD\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.MultipleChoiceScreen.resources
+D:\SSD\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.SplashScreen.resources
+D:\SSD\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.Properties.Resources.resources
+D:\SSD\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.TrueOrFalseScreen.resources
+D:\SSD\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.csproj.GenerateResource.Cache
+D:\SSD\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.exe
+D:\SSD\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.pdb
+D:\SSD\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.csprojResolveAssemblyReference.cache
+J:\SSD\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.HelpScreen.resources
+D:\SSD\Coursework\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.HelpScreen.resources
+D:\EuropeanStudiesQuiz\EuropeanStudiesQuiz\EuropeanStudiesQuiz\bin\Debug\EuropeanStudiesQuiz.exe.config
+D:\EuropeanStudiesQuiz\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.exe
+D:\EuropeanStudiesQuiz\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.pdb
+D:\EuropeanStudiesQuiz\EuropeanStudiesQuiz\EuropeanStudiesQuiz\bin\Debug\EuropeanStudiesQuiz.exe
+D:\EuropeanStudiesQuiz\EuropeanStudiesQuiz\EuropeanStudiesQuiz\bin\Debug\EuropeanStudiesQuiz.pdb
+D:\EuropeanStudiesQuiz\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.csprojResolveAssemblyReference.cache
+D:\EuropeanStudiesQuiz\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.AdminScreen.resources
+D:\EuropeanStudiesQuiz\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.DragDropPicture.resources
+D:\EuropeanStudiesQuiz\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.EndScreen.resources
+D:\EuropeanStudiesQuiz\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.HelpScreen.resources
+D:\EuropeanStudiesQuiz\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.LoginScreen.resources
+D:\EuropeanStudiesQuiz\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.MultipleChoiceScreen.resources
+D:\EuropeanStudiesQuiz\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.SplashScreen.resources
+D:\EuropeanStudiesQuiz\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.Properties.Resources.resources
+D:\EuropeanStudiesQuiz\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.TrueOrFalseScreen.resources
+D:\EuropeanStudiesQuiz\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.csproj.GenerateResource.Cache
+F:\EuropeanStudiesQuiz\EuropeanStudiesQuiz\EuropeanStudiesQuiz\bin\Debug\EuropeanStudiesQuiz.exe.config
+F:\EuropeanStudiesQuiz\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.exe
+F:\EuropeanStudiesQuiz\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.pdb
+F:\EuropeanStudiesQuiz\EuropeanStudiesQuiz\EuropeanStudiesQuiz\bin\Debug\EuropeanStudiesQuiz.exe
+F:\EuropeanStudiesQuiz\EuropeanStudiesQuiz\EuropeanStudiesQuiz\bin\Debug\EuropeanStudiesQuiz.pdb
+F:\EuropeanStudiesQuiz\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.csprojResolveAssemblyReference.cache
+F:\EuropeanStudiesQuiz\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.AdminScreen.resources
+F:\EuropeanStudiesQuiz\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.DragDrogText.resources
+F:\EuropeanStudiesQuiz\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.DragDropPicture.resources
+F:\EuropeanStudiesQuiz\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.EndScreen.resources
+F:\EuropeanStudiesQuiz\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.HelpScreen.resources
+F:\EuropeanStudiesQuiz\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.LoginScreen.resources
+F:\EuropeanStudiesQuiz\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.MultipleChoiceScreen.resources
+F:\EuropeanStudiesQuiz\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.SplashScreen.resources
+F:\EuropeanStudiesQuiz\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.Properties.Resources.resources
+F:\EuropeanStudiesQuiz\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.TrueOrFalseScreen.resources
+F:\EuropeanStudiesQuiz\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.csproj.GenerateResource.Cache
+J:\EuropeanStudiesQuiz\EuropeanStudiesQuiz\EuropeanStudiesQuiz\bin\Debug\EuropeanStudiesQuiz.exe.config
+J:\EuropeanStudiesQuiz\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.exe
+J:\EuropeanStudiesQuiz\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.pdb
+J:\EuropeanStudiesQuiz\EuropeanStudiesQuiz\EuropeanStudiesQuiz\bin\Debug\EuropeanStudiesQuiz.exe
+J:\EuropeanStudiesQuiz\EuropeanStudiesQuiz\EuropeanStudiesQuiz\bin\Debug\EuropeanStudiesQuiz.pdb
+J:\EuropeanStudiesQuiz\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.csprojResolveAssemblyReference.cache
+J:\EuropeanStudiesQuiz\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.AdminScreen.resources
+J:\EuropeanStudiesQuiz\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.DragDropPicture.resources
+J:\EuropeanStudiesQuiz\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.EndScreen.resources
+J:\EuropeanStudiesQuiz\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.HelpScreen.resources
+J:\EuropeanStudiesQuiz\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.LoginScreen.resources
+J:\EuropeanStudiesQuiz\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.MultipleChoiceScreen.resources
+J:\EuropeanStudiesQuiz\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.SplashScreen.resources
+J:\EuropeanStudiesQuiz\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.Properties.Resources.resources
+J:\EuropeanStudiesQuiz\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.TrueOrFalseScreen.resources
+J:\EuropeanStudiesQuiz\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.csproj.GenerateResource.Cache
+J:\EuropeanStudiesQuiz\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.DragDropText.resources
+D:\EuropeanStudiesQuiz\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.DragDropText.resources
+D:\Sinead Galbraith\EuropeanStudiesQuiz\EuropeanStudiesQuiz\bin\Debug\EuropeanStudiesQuiz.exe.config
+D:\Sinead Galbraith\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.exe
+D:\Sinead Galbraith\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.pdb
+D:\Sinead Galbraith\EuropeanStudiesQuiz\EuropeanStudiesQuiz\bin\Debug\EuropeanStudiesQuiz.exe
+D:\Sinead Galbraith\EuropeanStudiesQuiz\EuropeanStudiesQuiz\bin\Debug\EuropeanStudiesQuiz.pdb
+D:\Sinead Galbraith\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.csprojResolveAssemblyReference.cache
+D:\Sinead Galbraith\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.AdminScreen.resources
+D:\Sinead Galbraith\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.DragDropText.resources
+D:\Sinead Galbraith\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.DragDropPicture.resources
+D:\Sinead Galbraith\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.EndScreen.resources
+D:\Sinead Galbraith\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.HelpScreen.resources
+D:\Sinead Galbraith\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.LoginScreen.resources
+D:\Sinead Galbraith\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.MultipleChoiceScreen.resources
+D:\Sinead Galbraith\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.SplashScreen.resources
+D:\Sinead Galbraith\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.Properties.Resources.resources
+D:\Sinead Galbraith\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.TrueOrFalseScreen.resources
+D:\Sinead Galbraith\EuropeanStudiesQuiz\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.csproj.GenerateResource.Cache
+E:\Software Systems Development - A1S1\9038\Original Program (Visual Studio)\EuropeanStudiesQuiz\bin\Debug\EuropeanStudiesQuiz.exe.config
+E:\Software Systems Development - A1S1\9038\Original Program (Visual Studio)\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.exe
+E:\Software Systems Development - A1S1\9038\Original Program (Visual Studio)\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.pdb
+E:\Software Systems Development - A1S1\9038\Original Program (Visual Studio)\EuropeanStudiesQuiz\bin\Debug\EuropeanStudiesQuiz.exe
+E:\Software Systems Development - A1S1\9038\Original Program (Visual Studio)\EuropeanStudiesQuiz\bin\Debug\EuropeanStudiesQuiz.pdb
+E:\Software Systems Development - A1S1\9038\Original Program (Visual Studio)\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.csprojResolveAssemblyReference.cache
+E:\Software Systems Development - A1S1\9038\Original Program (Visual Studio)\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.AdminScreen.resources
+E:\Software Systems Development - A1S1\9038\Original Program (Visual Studio)\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.DragDropText.resources
+E:\Software Systems Development - A1S1\9038\Original Program (Visual Studio)\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.DragDropPicture.resources
+E:\Software Systems Development - A1S1\9038\Original Program (Visual Studio)\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.EndScreen.resources
+E:\Software Systems Development - A1S1\9038\Original Program (Visual Studio)\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.HelpScreen.resources
+E:\Software Systems Development - A1S1\9038\Original Program (Visual Studio)\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.LoginScreen.resources
+E:\Software Systems Development - A1S1\9038\Original Program (Visual Studio)\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.MultipleChoiceScreen.resources
+E:\Software Systems Development - A1S1\9038\Original Program (Visual Studio)\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.SplashScreen.resources
+E:\Software Systems Development - A1S1\9038\Original Program (Visual Studio)\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.Properties.Resources.resources
+E:\Software Systems Development - A1S1\9038\Original Program (Visual Studio)\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.TrueOrFalseScreen.resources
+E:\Software Systems Development - A1S1\9038\Original Program (Visual Studio)\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.csproj.GenerateResource.Cache
+F:\Software Systems Development - A1S1\9038\Original Program (Visual Studio)\EuropeanStudiesQuiz\bin\Debug\EuropeanStudiesQuiz.exe.config
+F:\Software Systems Development - A1S1\9038\Original Program (Visual Studio)\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.exe
+F:\Software Systems Development - A1S1\9038\Original Program (Visual Studio)\EuropeanStudiesQuiz\obj\Debug\EuropeanStudiesQuiz.pdb
